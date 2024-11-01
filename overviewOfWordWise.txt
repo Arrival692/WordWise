@@ -1,0 +1,3 @@
+The WordWise frontend is the client-side application for WordWise, an immersive language-learning platform designed to help users build vocabulary and language skills effectively. The frontend delivers an interactive, user-friendly experience that incorporates personalized lessons, quizzes, and tracking features, all in real-time.
+
+Built with a modern tech stack and responsive design, WordWise enables learners to access their language studies across multiple devices. Core functionality includes user registration and authentication, adaptive lesson interfaces, progress tracking, and analytics—all of which are optimized for smooth performance and scalability.
